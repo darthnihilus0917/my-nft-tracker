@@ -1,1 +1,1 @@
-# my-personal-nft
+# my-nft-tracker
